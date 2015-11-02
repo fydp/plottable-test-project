@@ -1,3 +1,4 @@
 [submodule "plottable"]
 	path = plottable
 	url = https://github.com/fydp/plottable
+    branch = master
